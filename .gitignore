@@ -1,0 +1,16 @@
+.DS_Store
+.idea/lab1.iml
+.idea/modules.xml
+.idea/misc.xml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+*.tmp
